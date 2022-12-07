@@ -1,2 +1,2 @@
 # Pocket-Money-Management-System
-Android App
+零用錢管理系統
