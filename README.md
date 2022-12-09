@@ -15,8 +15,8 @@ In addition to the traditional paper handbook records, more and more people now 
   
 ## Instruction  
 Step.01  Open the APP and enter the main screen.  
-<img src="./images/01.png" width="80%">  
+<img src="./images/01.png" width="40%">  
   
 Step.02  **Revenue Accounting**  
 - Press the income button at the top left of the main screen to enter the income registration page.  
-<img src="./images/02.png" width="80%">  
+<img src="./images/02.png" width="40%">  
