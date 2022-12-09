@@ -34,3 +34,10 @@ Step.03  **Expense Payments**
   <img src="./images/06.png" width="30%">  
 - After confirming that it is correct, press Send to return to the main screen. The Deposit Overview block will display the total deposit amount.  
   <img src="./images/07.png" width="30%">  
+  
+Step.04  **View the total Income and Expenses**  
+- Income: Select the Total Earnings option from the menu under Deposit Overview in the main screen to view the full amount of earnings.  
+  <img src="./images/08.png" width="30%">  
+- Expense: Select the Total Spend option in the menu under Deposit Overview in the main screen to view the full amount of your spending.  
+  <img src="./images/09.png" width="30%">  
+
