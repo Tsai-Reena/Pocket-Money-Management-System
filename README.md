@@ -19,4 +19,4 @@ Step.01  Open the APP and enter the main screen.
   
 Step.02  **Revenue Accounting**  
 - Press the income button at the top left of the main screen to enter the income registration page.  
-- <img src="./images/02.png" width="30%">  
+  <img src="./images/02.png" width="30%">  
