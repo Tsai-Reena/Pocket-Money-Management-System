@@ -19,4 +19,7 @@ Step.01  Open the APP and enter the main screen.
   
 Step.02  **Revenue Accounting**  
 - Press the income button at the top left of the main screen to enter the income registration page.  
-  <img src="./images/02.png" width="30%">  
+  <img src="./images/02.png" width="70%">  
+- Select the type of income (food, clothing, housing, transportation, education, entertainment), and use the small calculator on the right to calculate the amount of income.  
+- Press the "=" button, and the content entered by the user will be displayed at the top of the screen.  
+  <img src="./images/03.png" width="30%">  
